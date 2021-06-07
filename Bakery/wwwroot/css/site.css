@@ -11,6 +11,10 @@ a.navbar-brand {
     justify-content: flex-end;
 }
 
+.friends-logo{
+  width: 50px;
+}
+
 /* Provide sufficient contrast against white background */
 a {
   color: #0366d6;
